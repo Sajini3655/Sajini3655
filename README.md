@@ -20,10 +20,6 @@ I enjoy building practical software solutions, learning new technologies, and im
 **Core Areas:** Data Structures and Algorithms, Object-Oriented Programming, Problem Solving, Software Development Principles
 **AI/ML:** Machine Learning Fundamentals, Deep Learning Basics, Data Analysis, NumPy, Pandas, Scikit-learn
 
-## Currently Looking For
-
-Software engineering internship opportunities where I can learn from industry-level development teams, contribute to real projects, and improve my skills in building reliable and user-focused software systems.
-
 ## Contact
 
 Email: [tharushikarks.23@uom.lk](mailto:tharushikarks.23@uom.lk)
