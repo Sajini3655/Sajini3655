@@ -22,5 +22,5 @@ I enjoy building practical software solutions, learning new technologies, and im
 
 ## Contact
 
-Email: [tharushikarks.23@uom.lk](mailto:tharushikarks.23@uom.lk)  
+Email:    [tharushikarks.23@uom.lk](mailto:tharushikarks.23@uom.lk)         
 LinkedIn: [linkedin.com/in/sajini-tharushika-159f0234b](https://www.linkedin.com/in/sajini-tharushika-15990234b/)
