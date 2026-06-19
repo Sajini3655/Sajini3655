@@ -27,4 +27,4 @@ Software engineering internship opportunities where I can learn from industry-le
 ## Contact
 
 Email: [tharushikarks.23@uom.lk](mailto:tharushikarks.23@uom.lk)
-LinkedIn: linkedin.com/in/sajini-tharushika-159f0234b
+LinkedIn: [linkedin.com/in/sajini-tharushika-159f0234b](https://www.linkedin.com/in/sajini-tharushika-15990234b/)
