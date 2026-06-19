@@ -15,10 +15,10 @@ I enjoy building practical software solutions, learning new technologies, and im
 
 ## Skills
 
-**Languages:** Java, Python, JavaScript, SQL, HTML, CSS
-**Frameworks & Tools:** React, Spring Boot, PostgreSQL, Git, GitHub
-**Core Areas:** Data Structures and Algorithms, Object-Oriented Programming, Problem Solving, Software Development Principles
-**AI/ML:** Machine Learning Fundamentals, Deep Learning Basics, Data Analysis, NumPy, Pandas, Scikit-learn
+- **Languages:** Java, Python, JavaScript, SQL, HTML, CSS
+- **Frameworks & Tools:** React, Spring Boot, PostgreSQL, Git, GitHub
+- **Core Areas:** Data Structures and Algorithms, Object-Oriented Programming, Problem Solving, Software Development Principles
+- **AI/ML:** Machine Learning Fundamentals, Deep Learning Basics, Data Analysis, NumPy, Pandas, Scikit-learn
 
 ## Contact
 
