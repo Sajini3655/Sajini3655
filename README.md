@@ -1,75 +1,51 @@
-# Hi, I'm Sajini Tharushika 👋
+# Sajini Tharushika
 
-I'm an **Information Technology undergraduate at the University of Moratuwa**, interested in **software engineering, full-stack development, backend systems, and AI/ML**.
+**Information Technology Undergraduate | Software Engineering | Full-Stack Development**
 
-I enjoy building practical software solutions, learning new technologies, and strengthening my problem-solving skills through academic and real-world projects. I'm currently focused on growing as a software engineer while exploring how AI can be integrated into useful and efficient applications.
+I'm an **Information Technology undergraduate at the University of Moratuwa** with a strong interest in **software engineering, backend development, full-stack development, distributed systems, and AI/ML**.
 
-## 🚀 Technical Interests
+I enjoy building practical software solutions, exploring modern technologies, and strengthening my problem-solving skills through hands-on development.
 
-- Software Engineering
-- Full-Stack Development
-- Backend Development
-- AI & Machine Learning
-- Database Systems
-- Web Application Development
+### Technical Interests
 
-## 🛠️ Skills
+Software Engineering · Backend Development · Full-Stack Development · Distributed Systems · API Management · System Design · Database Systems · Cloud & DevOps · AI/ML
 
-**Languages**
-- Java
-- Python
-- JavaScript
-- SQL
-- HTML
-- CSS
+### Technologies
 
-**Frameworks & Technologies**
-- React
-- Spring Boot
-- REST APIs
-- PostgreSQL
-- Git
-- GitHub
+**Languages**  
+Java · Python · JavaScript · C++ · SQL
 
-**Core Areas**
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Problem Solving
-- Software Development Principles
-- Database Management
+**Frontend**  
+React · Next.js · HTML · CSS · Tailwind CSS
 
-**AI / ML**
-- Machine Learning Fundamentals
-- Deep Learning Basics
-- Data Analysis
-- NumPy
-- Pandas
-- Scikit-learn
+**Backend & APIs**  
+Spring Boot · Node.js · PHP · REST APIs · WebSockets · STOMP · Authentication & Authorization
 
-## 📌 Featured Project
+**Databases & Data**  
+PostgreSQL · MySQL · MongoDB · Redis · Prisma ORM
 
-### Nexora — AI-Enhanced Project Management System
+**Distributed Systems & Messaging**  
+RabbitMQ · Message Queues · Asynchronous Processing · Event-Driven Architecture · Distributed Workers · Retry Mechanisms · Dead-Letter Queues · Idempotency
 
-A smart project management platform designed to improve project coordination through AI-powered features.
+**API Management**  
+WSO2 API Manager · API Gateway · API Design · API Security
 
-**Technologies:** React, Spring Boot, PostgreSQL, Python, REST APIs, AI/ML
+**Cloud & DevOps**  
+Docker · Kubernetes · CI/CD · AWS · Google Cloud · Vercel · Render
 
-Key areas I worked on include:
-- Admin dashboard and user management
-- Project and task management
-- AI-powered chat and summarization
-- AI-assisted ticket creation
-- Role-based access control
-- Real-time notifications
+**AI & Data**  
+NumPy · Pandas · Scikit-learn · Data Preprocessing · Machine Learning · Deep Learning · AI API Integration
 
-## 🎯 Currently
+**Systems & Embedded**  
+OpenGL · GLSL · Arduino · ESP32 · Embedded Systems
 
-- Building and improving full-stack applications
-- Strengthening my software engineering fundamentals
-- Exploring AI/ML applications in software development
-- Preparing for software engineering internship opportunities
+**Security & Development**  
+JWT · bcrypt · Git · GitHub · VS Code · Software Testing
 
-## 📫 Connect With Me
+### Currently
 
-- **Email:** [tharushikarks.23@uom.lk](mailto:tharushikarks.23@uom.lk)
-- **LinkedIn:** [linkedin.com/in/sajini-tharushika-15990234b](https://www.linkedin.com/in/sajini-tharushika-15990234b/)
+Strengthening my software engineering and backend development skills while exploring **scalable systems, distributed architectures, system design, cloud technologies, and AI-powered applications**.
+
+### Connect
+
+[LinkedIn](https://linkedin.com/in/sajini-tharushika-15990234b) · [GitHub](https://github.com/Sajini3655) · [Email](mailto:sajinitharushika3655@gmail.com)
