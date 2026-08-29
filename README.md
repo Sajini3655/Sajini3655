@@ -1,4 +1,3 @@
-```markdown
 # Sajini Tharushika
 
 ### Information Technology Undergraduate | Software Engineering | Full-Stack & Backend Development
@@ -98,4 +97,3 @@ Scalable backend architecture, distributed systems, system design, API managemen
 ## Connect
 
 [LinkedIn](https://linkedin.com/in/sajini-tharushika-15990234b) · [GitHub](https://github.com/Sajini3655) · [Email](mailto:sajinitharushika3655@gmail.com)
-```
