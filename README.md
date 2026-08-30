@@ -7,8 +7,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/sajini-tharushika-15990234">LinkedIn</a>
   &nbsp;•&nbsp;
-  <a href="https://github.com/Sajini3655">GitHub</a>
-  &nbsp;•&nbsp;
   <a href="mailto:sajinitharushika3655@gmail.com">Email</a>
 </p>
 
@@ -64,49 +62,24 @@ OpenGL · GLSL · Arduino · ESP32 · Embedded Systems
 
 ### Security & Development Tools
 
-JWT · bcrypt · Git · GitHub · Software Testing
+JWT · bcrypt · Git · GitHub · VS Code · Software Testing
 
 ---
 
 ## Areas of Interest
 
-* Software Engineering
-* Backend Engineering
-* Full-Stack Development
-* Distributed Systems
-* API Management
-* System Design
-* Cloud & DevOps
-* AI/ML
+Software Engineering · Backend Engineering · Full-Stack Development · Distributed Systems · API Management · System Design · Cloud & DevOps · AI/ML
 
 ---
 
 ## Currently Exploring
 
-**Scalable Backend Architecture**
-Designing reliable and maintainable backend services.
-
-**Distributed Systems**
-Asynchronous processing, messaging, workers, retries, idempotency, and fault tolerance.
-
-**API Management**
-API gateways, security, lifecycle management, and enterprise API architectures.
-
-**Cloud-Native Development**
-Containerization, Kubernetes, CI/CD, deployment, and observability.
-
-**AI-Powered Applications**
-Integrating AI capabilities into practical software systems.
-
----
-
-## GitHub
-
-<p align="center">
-  <a href="https://github.com/Sajini3655">
-    Explore my repositories →
-  </a>
-</p>
+* Scalable backend architecture
+* Distributed systems and asynchronous processing
+* API architecture, management, and security
+* Cloud-native development and container orchestration
+* CI/CD and system observability
+* AI-powered software applications
 
 ---
 
@@ -114,8 +87,6 @@ Integrating AI capabilities into practical software systems.
 
 <p align="center">
   <a href="https://linkedin.com/in/sajini-tharushika-15990234">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/Sajini3655">GitHub</a>
   &nbsp;•&nbsp;
   <a href="mailto:sajinitharushika3655@gmail.com">Email</a>
 </p>
