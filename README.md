@@ -10,9 +10,6 @@
   <a href="mailto:sajinitharushika3655@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <img src="https://viewcounter.live/sajini-tharushika?label=Profile%20Views&unique=true" alt="Profile Views" />
-</p>
 
 ---
 
