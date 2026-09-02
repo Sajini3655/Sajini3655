@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sajini-tharushika&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://viewcounter.live/sajini-tharushika?label=Profile%20Views&unique=true" alt="Profile Views" />
 </p>
 
 ---
