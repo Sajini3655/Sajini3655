@@ -4,13 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Software+Engineering+Undergraduate;Backend+%26+Full-Stack+Developer;Distributed+Systems+%26+API+Management;Building+Scalable+%26+Reliable+Software" alt="Typing Animation" />
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/sajini-tharushika-15990234">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:sajinitharushika3655@gmail.com">Email</a>
-</p>
-
-
 ---
 
 ## About
